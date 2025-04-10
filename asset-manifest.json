@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-published/static/css/main.97d6d0fa.css",
+    "main.js": "/tic-tac-toe-published/static/js/main.ed91a4e7.js",
+    "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe-published/static/js/453.e036e8b5.chunk.js",
+    "static/media/tic_tac_toe_logo.png": "/tic-tac-toe-published/static/media/tic_tac_toe_logo.4c996398fcbff7e3a6ea.png",
+    "static/media/win.mp3": "/tic-tac-toe-published/static/media/win.37b45d4b4b0828435ef4.mp3",
+    "static/media/background.jpg": "/tic-tac-toe-published/static/media/background.16281c40c08170d57450.jpg",
+    "static/media/draw.mp3": "/tic-tac-toe-published/static/media/draw.d43cbdef196c9500c67a.mp3",
+    "static/media/click1.mp3": "/tic-tac-toe-published/static/media/click1.e8ee804f406019e0adfc.mp3",
+    "index.html": "/tic-tac-toe-published/index.html",
+    "main.97d6d0fa.css.map": "/tic-tac-toe-published/static/css/main.97d6d0fa.css.map",
+    "main.ed91a4e7.js.map": "/tic-tac-toe-published/static/js/main.ed91a4e7.js.map",
+    "453.e036e8b5.chunk.js.map": "/tic-tac-toe-published/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d6d0fa.css",
+    "static/js/main.ed91a4e7.js"
+  ]
+}
