@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe-published/static/css/main.05f7907c.css",
+    "main.css": "/tic-tac-toe-published/static/css/main.4516dcb3.css",
     "main.js": "/tic-tac-toe-published/static/js/main.d5d98433.js",
     "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe-published/static/js/453.e036e8b5.chunk.js",
     "static/media/win.mp3": "/tic-tac-toe-published/static/media/win.37b45d4b4b0828435ef4.mp3",
@@ -11,12 +11,12 @@
     "static/media/heart.png": "/tic-tac-toe-published/static/media/heart.c1fe991b02560baa6731.png",
     "static/media/click1.mp3": "/tic-tac-toe-published/static/media/click1.e8ee804f406019e0adfc.mp3",
     "index.html": "/tic-tac-toe-published/index.html",
-    "main.05f7907c.css.map": "/tic-tac-toe-published/static/css/main.05f7907c.css.map",
+    "main.4516dcb3.css.map": "/tic-tac-toe-published/static/css/main.4516dcb3.css.map",
     "main.d5d98433.js.map": "/tic-tac-toe-published/static/js/main.d5d98433.js.map",
     "453.e036e8b5.chunk.js.map": "/tic-tac-toe-published/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05f7907c.css",
+    "static/css/main.4516dcb3.css",
     "static/js/main.d5d98433.js"
   ]
 }
